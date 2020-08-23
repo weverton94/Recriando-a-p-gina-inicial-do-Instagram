@@ -1,3 +1,3 @@
 # Recriando-a-página-inicial-do-Instagram
 
-Projeto da aula de Flexbox, o qual foi feito a interface de login do Instagram!
+Projeto ensinando Flexbox (CSS) e responsividade:computer:: foi feita a interface de login do Instagram.:coffe:Ministrado pela especialista Gabriela Pinheiro.
